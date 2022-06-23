@@ -1,2 +1,2 @@
 language = "python3"
-run = "python trip_advisor_2.py"
+run = "python trip_advisor.py"
